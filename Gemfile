@@ -53,6 +53,8 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 
 gem 'rake'
 
+gem 'jsbundling-rails'
+
 gem 'nokogiri', '~> 1.6', '>= 1.6.7'
 # Use Sass to process CSS
 # gem "sassc-rails"
