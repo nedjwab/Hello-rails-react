@@ -4,4 +4,5 @@ Rails.application.routes.draw do
       resources :greetings
     end
   end
+  root 'static#index'
 end
